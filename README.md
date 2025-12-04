@@ -1,18 +1,20 @@
-### Hi there 👋
+### Hi there 👋 Welcome!
 
+This is my personal Github portfolio. I am a self-taught Databricks Engineer (in progress), and a self-taught AWS, GCP Architect, AND a self-taught frontend/backend developer (but the website development is not in my interest anymore). I had major help here but hey that's what is expected as a newbie!
+
+- 🔭 I’m currently working on Databricks Engineering (I ingested data, cleaned it via SQL, and Python and then I created a visual - it looks great). I created a dashbaord for the United States EPA showcasing the emissions in megatons being used by the United States - check it out!
+- 🌱 I’m currently learning Databricks, SQL, and Python.
+- 💬 Ask me about Product Management! I love talking about it, and how I translate business needs into technical details to relay to my team.
+
+- Hope you enjoy your time here and see something of value and impact!
 <!--
 **sulahmedio/sulahmedio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-This is my personal website. This is also my first project as I have been teaching myself frontend development.  I had major help here but hey that's what is expected as a newbie.
-Visit the website and enjoy!
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
